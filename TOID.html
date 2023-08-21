@@ -1,1 +1,109 @@
-hello
+<html lang="en">
+<head>
+    <title>SDLE Repository</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--<script src="js/d3.js" type="text/javascript"></script>-->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="js/paperData.js"></script>
+    <script src="js/HeatMap.js"></script>
+    <script src="js/Histogram.js"></script>
+    <script src="js/paperPage.js"></script>
+    <script src="js/titleEdit.js"></script>
+    <script src="js/Home.js"></script>
+    <script src="js/insertData.js"></script>
+    <script src="js/Pagination.js"></script>
+    <style>
+        .tablefont {
+            font-family: "Arial", Arial, sans-serif;
+            color : #2E2E2E;
+        }
+    </style>
+</head>
+<body>
+<div id="headTitle" style="width: 100%; height: 15%;">
+<!--    <div id="headTitle1"></div>-->
+<!--    <div id = "abInfo"></div>-->
+</div>
+
+<div id="pageChange" style="position : absolute; top : 15%; width: 100%; height: 10%;">
+    <div id = "HomePage" class="chosePage" onclick="javascript:location.href='TOID.html' " style="background-color: #E6E6E6">Home</div>
+    <div id = "RepositoryPage" class="chosePage" onclick="javascript:location.href='Repository.html' ">Repository</div>
+    <div id = "AnalysisPage" class="chosePage" onclick="javascript:location.href='Analysis.html' ">Analysis</div>
+</div>
+
+<div id = "Content" style=" word-break:break-all; word-wrap:break-word ;" >
+    <div id = "Survey">
+        <h2 class = "tablefont">Test Optimization in DNN Testing Paper Repository</h2>
+        <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+            TBD
+        </p>
+<!--        <p id = homeP3 class = "tablefont" style="width: 74%; height: auto">-->
+<!--            The literature on secure deep learning engineering has been mainly categorized into security <br>-->
+<!--            and privacy, testing and verification, interpretability and understanding. This repository aims to-->
+<!--            <br>provide a full coverage of the publications in the literature on secure deep learning engineering.</p>-->
+
+        <div style="width: 80%">
+            <h2 class = "tablefont">Repository Status</h2>
+            <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+             Each paper could cover more than one topics.
+           </p>
+
+
+            <table class = "tablefont" role="table" style="border:0 solid white">
+                <tr>
+                    <td align="left" style="border-style:none" >All Papers:</td>
+                    <td align="right" style="border-style:none"> 97 </td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Fault Detection:</td>
+                    <td align="right" style="border-style:none"> 47</td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none">Sampling-Based Model Retraining:</td>
+                    <td align="right" style="border-style:none"> 20 </td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none; width: 50%;">Model Selection:</td>
+                    <td align="right" style="border-style:none">3</td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Performance Estimation:</td>
+                    <td align="right" style="border-style:none">33</td>
+                </tr>
+            </table>
+        </div>
+
+
+<!--        <h2 class = "tablefont">Secure Deep Learning Engineering: Challenges and Opportunities</h2>-->
+<!--        <p class = "tablefont" style="width: 74%">This paper takes the first large-scale empirical study of secure deep learning engineering from-->
+<!--            <br>the quality assurance perspective, accompanied with a comprehensive and state-of-the-art-->
+<!--            <br>literature curation. Using this repository, a comprehensive trend analysis and survey of secure-->
+<!--            <br>deep learning engineering has been conducted. The paper also presents directions of several -->
+<!--            <br>research challenges and opportunities. These analyses provide evidence that secure deep-->
+<!--            <br>learning engineering is still in its infancy, which requires the support of experts from crossover-->
+<!--            <br>areas of AI, security, software engineering, and even each domain-specific area to accomplish,-->
+<!--            <br>while the topic of secure deep learning engineering itself is the subject of increasing interest.-->
+<!--            <br>Considering deep learning is likely to be one of the most transformative technologies in the-->
+<!--            <br>21st century, it appears essential that AI and SE communities should now begin to think about-->
+<!--            <br>how we design fully fledged secure deep learning systems. Only then will we see deep learning-->
+<!--            <br>benefiting the many and not the few.</p>-->
+        <!-- <p style="background-color: blanchedalmond; width: 60%; left: 20%">@article{ma2018secure,
+            <br>title={Secure Deep Learning Engineering: <br>A Software Quality Assurance Perspective},
+            <br>author={Ma, Lei and Juefei-Xu, Felix and Xue, Minhui and Hu, Qiang <br>and Chen, Sen and Li, Bo and Liu, Yang and Zhao, Jianjun <br>and Yin, Jianxiong and See, Simon},
+            <br>journal={arXiv preprint arXiv:1810.04538},
+            <br>year={2018}
+            }</p> -->
+        <br>
+        <br>
+
+        <pre id = homePre></pre>
+    </div>
+</div>
+
+<script>
+    homeStyle();
+</script>
+</body>
+</html>
