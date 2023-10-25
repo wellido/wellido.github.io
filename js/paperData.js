@@ -20,6 +20,12 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data092", "2023", "Yining Yin, Yang Feng, Zixi Liu, Zhihong Zhao", "Practical Accuracy Evaluation for Deep Learning Systems via Latent Representation Discrepancy", "Performance Estimation"]);
+
+paperArray.push(["data091", "2023", "Yining Yin, Yang Feng, Shihao Weng, Zixi Liu, Yuan Yao, Yichi Zhang, Zhihong Zhao, Zhenyu Chen", "Dynamic Data Fault Localization for Deep Neural Networks", "Fault Detection"]);
+
+paperArray.push(["data090", "2023", "Ali Ghanbari, Deepak-George Thomas, Muhammad Arbab Arshad, Hridesh Rajan", "Mutation-based Fault Localization of Deep Neural Networks", "Fault Detection"]);
+
 
 paperArray.push(["data089", "2022", "Fei Zhu, Zhen Cheng, Xu-Yao Zhang, Cheng-Lin Liu", "Rethinking Confidence Calibration for Failure Prediction", "Fault Detection"]);
 
