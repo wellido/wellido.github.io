@@ -20,6 +20,8 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data095", "2024", "Zhuo Wu, Zan Wang, Junjie Chen, Hanmo You, Ming Yan, Lanjun Wang", "Stratified Random Sampling for Neural Network Test Input Selection", "Performance Estimation"]);
+
 paperArray.push(["data094", "2023", "Hongjing Guo, Chuanqi Tao, Zhiqiu Huang", "Multi-Objective White-Box Test Input Selection for Deep Neural Network Model Enhancement", "Retraining"]);
 
 paperArray.push(["data093", "2023", "Lin Li, Yifei Wang, Chawin Sitawarin, Michael Spratling", "OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift", "Performance Estimation"]);
