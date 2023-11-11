@@ -20,6 +20,9 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data096", "2023", "Qinyuan Ye, Harvey Yiyun Fu, Xiang Ren, Robin Jia", "How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench", "Performance Estimation"]);
+
+
 paperArray.push(["data095", "2024", "Zhuo Wu, Zan Wang, Junjie Chen, Hanmo You, Ming Yan, Lanjun Wang", "Stratified Random Sampling for Neural Network Test Input Selection", "Performance Estimation"]);
 
 paperArray.push(["data094", "2023", "Hongjing Guo, Chuanqi Tao, Zhiqiu Huang", "Multi-Objective White-Box Test Input Selection for Deep Neural Network Model Enhancement", "Retraining"]);
