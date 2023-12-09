@@ -20,6 +20,8 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data096", "2023", "Li Li, Chuanqi Tao, Hongjing Guo, Jingxuan Zhang, Xiaobing Sun", "FATS: Feature Distribution Analysis-Based Test Selection for Deep Learning Enhancement", "Sampling-Based Model Retraining"]);
+
 paperArray.push(["data096", "2023", "Qinyuan Ye, Harvey Yiyun Fu, Xiang Ren, Robin Jia", "How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench", "Performance Estimation"]);
 
 
