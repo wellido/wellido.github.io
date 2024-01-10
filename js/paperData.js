@@ -20,6 +20,8 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data100", "2024", "Xueqi Dang, Yinghua Li, Mike Papadakis, Jacques Klein, Tegawende Bissyande, Yves Le Traon", "Test input prioritization for Machine Learning Classifiers", "Fault Detection"]);
+
 paperArray.push(["data099", "2023", "Hamzah Al-Qadasi, Yliès Falcone, Saddek Bensalem ", "DeepAbstraction++: Enhancing Test Prioritization Performance via Combined Parameterized Boxes", "Fault Detection"]);
 
 
