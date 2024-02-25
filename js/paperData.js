@@ -20,6 +20,9 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data103", "2024", "Ru Peng, Heming Zou, Haobo Wang, Yawen Zeng, Zenan Huang, Junbo Zhao", "Energy-based Automated Model Evaluation", "Performance Estimation"]);
+
+
 paperArray.push(["data102", "2023", "Weifeng Sun, Meng Yan, Zhongxin Liu, David Lo", "Robust Test Selection for Deep Neural Networks", "Fault Detection, Retraining"]);
 
 
