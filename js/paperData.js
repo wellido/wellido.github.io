@@ -20,6 +20,9 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data104", "2023", "Ru Peng, Qiuyang Duan, Haobo Wang, Jiachen Ma, Yanbo Jiang, Yongjun Tu, Xiu Jiang, Junbo Zhao", "CAME: Contrastive Automated Model Evaluation", "Performance Estimation"]);
+
+
 paperArray.push(["data103", "2024", "Ru Peng, Heming Zou, Haobo Wang, Yawen Zeng, Zenan Huang, Junbo Zhao", "Energy-based Automated Model Evaluation", "Performance Estimation"]);
 
 
