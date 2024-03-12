@@ -20,6 +20,9 @@ var paperArray = new Array();
 
 // Formal Specification for Deep Neural Networks
 
+paperArray.push(["data105", "2024", "Antonio Guerriero, Roberto Pietrantuono, Stefano Russo", "DeepSample: DNN sampling-based testing for operational accuracy assessment", "Performance Estimation"]);
+
+
 paperArray.push(["data104", "2023", "Ru Peng, Qiuyang Duan, Haobo Wang, Jiachen Ma, Yanbo Jiang, Yongjun Tu, Xiu Jiang, Junbo Zhao", "CAME: Contrastive Automated Model Evaluation", "Performance Estimation"]);
 
 
