@@ -8,17 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
-// AI Safety
-// Adversarial Examples Generation
-// General Attacks and Defenses of AI
-// Adversarial Attacks
-// Adversarial Attacks
-// Testing for DL Systems
-// Testing for ML Systems
-// Verification for DL Systems
-// Verification for ML Systems
 
-// Formal Specification for Deep Neural Networks
+paperArray.push(["data106", "2024", "Yinghua Li, Xueqi Dang, Weiguo Pian, Andrew Habib, Jacques Klein, Tegawendé F. Bissyandé", "Test Input Prioritization for Graph Neural Networks", "Fault Detection"]);
+
 
 paperArray.push(["data105", "2024", "Antonio Guerriero, Roberto Pietrantuono, Stefano Russo", "DeepSample: DNN sampling-based testing for operational accuracy assessment", "Performance Estimation"]);
 
