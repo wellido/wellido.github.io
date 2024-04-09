@@ -9,6 +9,9 @@ var paperArray = new Array();
 // paperArray[6] : Abstract
 
 
+paperArray.push(["data107", "2023", "Demet Demir, Aysu Betin-Can, Elif Surer", "Distribution Aware Testing Framework for Deep Neural Networks", "Fault Detection"]);
+
+
 paperArray.push(["data106", "2024", "Yinghua Li, Xueqi Dang, Weiguo Pian, Andrew Habib, Jacques Klein, Tegawendé F. Bissyandé", "Test Input Prioritization for Graph Neural Networks", "Fault Detection"]);
 
 
