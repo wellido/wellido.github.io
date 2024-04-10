@@ -8,6 +8,8 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data108", "2024", "Fei Zhu, Xu-Yao Zhang, Zhen Cheng, Cheng-Lin Liu", "Revisiting Confidence Estimation: Towards Reliable Failure Prediction", "Fault Detection"]);
+
 
 paperArray.push(["data107", "2023", "Demet Demir, Aysu Betin-Can, Elif Surer", "Distribution Aware Testing Framework for Deep Neural Networks", "Fault Detection"]);
 
