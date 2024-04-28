@@ -8,6 +8,8 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data109", "2023", "Yu Li, Qing Xu", "Towards Robust Deep Neural Networks Against Design-Time and Run-Time Failures", "Fault Detection, Retraining"]);
+
 paperArray.push(["data108", "2024", "Fei Zhu, Xu-Yao Zhang, Zhen Cheng, Cheng-Lin Liu", "Revisiting Confidence Estimation: Towards Reliable Failure Prediction", "Fault Detection"]);
 
 
