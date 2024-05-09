@@ -8,6 +8,17 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+
+paperArray.push(["data113", "2024", "Elan Rosenfeld, Saurabh Garg", "(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy", "Performance Estimation"]);
+
+
+paperArray.push(["data112", "2024", "Aman Mehra, Rahul Saxena, Taeyoun Kim, Christina Baek, Zico Kolter, Aditi Raghunathan", "Predicting the Performance of Foundation Models via Agreement-on-the-Line", "Performance Estimation"]);
+
+paperArray.push(["data111", "2024", "Taeckyung Lee, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee", "AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation", "Performance Estimation"]);
+
+paperArray.push(["data110", "2024", "Tyler LaBonte, Vidya Muthukumar, Abhishek Kumar", "Towards Last-layer Retraining for Group Robustness with Fewer Annotations", "Retraining"]);
+
+
 paperArray.push(["data109", "2023", "Yu Li, Qing Xu", "Towards Robust Deep Neural Networks Against Design-Time and Run-Time Failures", "Fault Detection, Retraining"]);
 
 paperArray.push(["data108", "2024", "Fei Zhu, Xu-Yao Zhang, Zhen Cheng, Cheng-Lin Liu", "Revisiting Confidence Estimation: Towards Reliable Failure Prediction", "Fault Detection"]);
