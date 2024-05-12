@@ -9,6 +9,9 @@ var paperArray = new Array();
 // paperArray[6] : Abstract
 
 
+paperArray.push(["data114", "2024", "Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen", "LESS: Selecting Influential Data for Targeted Instruction Tuning", "Retraining"]);
+
+
 paperArray.push(["data113", "2024", "Elan Rosenfeld, Saurabh Garg", "(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy", "Performance Estimation"]);
 
 
