@@ -9,6 +9,9 @@ var paperArray = new Array();
 // paperArray[6] : Abstract
 
 
+paperArray.push(["data116", "2024", "Orr Zohar, Shih-Cheng Huang, Kuan-Chieh Wang, Serena Yeung", "LOVM: Language-Only Vision Model Selection", "Model Selection"]);
+
+
 paperArray.push(["data115", "2024", "Xin Zheng, Miao Zhang, Chunyang Chen, Soheila Molaei, Chuan Zhou, Shirui Pan", "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels", "Performance Estimation"]);
 
 
