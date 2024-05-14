@@ -8,6 +8,21 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data124", "2024", "Jakub Białek, Wojtek Kuberski, Nikolaos Perrakis, Albert Bifet", "Estimating Model Performance Under Covariate Shift Without Labels", "Performance Estimation"]);
+
+
+paperArray.push(["data123", "2024", "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An", "Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift", "Performance Estimation"]);
+
+
+paperArray.push(["data122", "2024", "Licong Guan, Xue Yuan", "Label-free model evaluation and weighted uncertainty sample selection for domain adaptive instance segmentation", "Performance Estimation"]);
+
+
+paperArray.push(["data122", "2024", "Xin Zheng, Dongjin Song, Qingsong Wen, Bo Du, Shirui Pan", "Online GNN Evaluation Under Test-time Graph Distribution Shifts", "Performance Estimation"]);
+
+
+paperArray.push(["data121", "2024", "Lin Zhao, Tianchen Zhao, Zinan Lin, Xuefei Ning, Guohao Dai, Huazhong Yang, Yu Wang", "FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models", "Performance Estimation"]);
+
+
 paperArray.push(["data120", "2024", "Yan Huang, Zhang Zhang, Yan Huang, Qiang Wu, Han Huang, Yi Zhong, Liang Wang", "Customized meta-dataset for automatic classifier accuracy evaluation", "Performance Estimation"]);
 
 
