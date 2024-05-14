@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data120", "2024", "Yan Huang, Zhang Zhang, Yan Huang, Qiang Wu, Han Huang, Yi Zhong, Liang Wang", "Customized meta-dataset for automatic classifier accuracy evaluation", "Performance Estimation"]);
+
+
 paperArray.push(["data119", "2024", "Yuzhe Lu, Yilong Qin, Runtian Zhai, Andrew Shen, Ketong Chen, Zhenlin Wang, Soheil Kolouri, Simon Stepputtis, Joseph Campbell, Katia Sycara1", "Characterizing Out-of-Distribution Error via Optimal Transport", "Performance Estimation"]);
 
 
