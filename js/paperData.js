@@ -9,6 +9,9 @@ var paperArray = new Array();
 // paperArray[6] : Abstract
 
 
+paperArray.push(["data115", "2024", "Xin Zheng, Miao Zhang, Chunyang Chen, Soheila Molaei, Chuan Zhou, Shirui Pan", "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels", "Performance Estimation"]);
+
+
 paperArray.push(["data114", "2024", "Mengzhou Xia, Sadhika Malladi, Suchin Gururangan, Sanjeev Arora, Danqi Chen", "LESS: Selecting Influential Data for Targeted Instruction Tuning", "Retraining"]);
 
 
