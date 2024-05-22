@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data128", "2024", "Dong Huang, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, and Heming Cui", "Neuron Sensitivity Guided Test Case Selection for Deep Learning Testing", "Fault Detection, Retraining"]);
+
+
 paperArray.push(["data127", "2023", "JoonHo Lee, Jae Oh Woo, Hankyu Moon, and Kwonho Lee", "Unsupervised accuracy estimation of deep visual models using domain-adaptive adversarial perturbation without source samples", "Performance Estimation"]);
 
 
