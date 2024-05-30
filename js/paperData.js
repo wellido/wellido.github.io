@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data129", "2024", "Gantavya Bhatt, Yifang Chen, Arnav M. Das, Jifan Zhang, Sang T. Truong, Stephen Mussmann, Yinglun Zhu, Jeffrey Bilmes, Simon S. Du, Kevin Jamieson, Jordan T. Ash, Robert D. Nowak", "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models", "Retraining"]);
+
+
 paperArray.push(["data128", "2024", "Dong Huang, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, and Heming Cui", "Neuron Sensitivity Guided Test Case Selection for Deep Learning Testing", "Fault Detection, Retraining"]);
 
 
