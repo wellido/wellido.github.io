@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data130", "2024", "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An", "MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts", "Performance Estimation"]);
+
+
 paperArray.push(["data129", "2024", "Gantavya Bhatt, Yifang Chen, Arnav M. Das, Jifan Zhang, Sang T. Truong, Stephen Mussmann, Yinglun Zhu, Jeffrey Bilmes, Simon S. Du, Kevin Jamieson, Jordan T. Ash, Robert D. Nowak", "An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models", "Retraining"]);
 
 
