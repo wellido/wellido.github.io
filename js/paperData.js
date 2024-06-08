@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data131", "2024", "Jinyin Chen, Ximin Zhang, Haibin Zheng ", "Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space", "Fault Detection"]);
+
+
 paperArray.push(["data130", "2024", "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An", "MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts", "Performance Estimation"]);
 
 
