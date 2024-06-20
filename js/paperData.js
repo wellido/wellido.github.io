@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data132", "2018", "Wei Zhou, Julie Stephany Berrio, Stewart Worrall, Eduardo Nebot", "Automated Evaluation of Semantic Segmentation Robustness for Autonomous Driving", "Performance Estimation"]);
+
+
 paperArray.push(["data131", "2024", "Jinyin Chen, Ximin Zhang, Haibin Zheng ", "Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space", "Fault Detection"]);
 
 
