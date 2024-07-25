@@ -8,6 +8,18 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data136", "2023", "Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, Robin Jia", "Estimating Large Language Model Capabilities without Labeled Test Data", "Performance Estimation"]);
+
+
+paperArray.push(["data135", "2024", "Zhengyuan Wei, Haipeng Wang, Qilin Zhou, W.K. Chan", "A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models", "Fault Detection"]);
+
+
+paperArray.push(["data134", "2024", "Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy, Yves Le Traon", "Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study", "Fault Detection, Retraining, Performance Estimation"]);
+
+
+paperArray.push(["data133", "2024", "Yinghua Li, Xueqi Dang, Lei Ma, Jacques Klein, Tegawendé F. Bissyandé", "Prioritizing Test Cases for Deep Learning-based Video Classifiers", "Fault Detection, Retraining"]);
+
+
 paperArray.push(["data132", "2018", "Wei Zhou, Julie Stephany Berrio, Stewart Worrall, Eduardo Nebot", "Automated Evaluation of Semantic Segmentation Robustness for Autonomous Driving", "Performance Estimation"]);
 
 
