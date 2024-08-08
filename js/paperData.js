@@ -8,6 +8,9 @@ var paperArray = new Array();
 // paperArray[5] : Type
 // paperArray[6] : Abstract
 
+paperArray.push(["data139", "2024", "Yuheng Huang, Jiayang Song, Qiang Hu, Felix Juefei-Xu, Lei Ma", "Active Testing of Large Language Model via Multi-Stage Sampling", "Performance Estimation"]);
+
+
 paperArray.push(["data138", "2024", "Miltiadis Allamanis, Sheena Panthaplackel, Pengcheng Yin", "Unsupervised Evaluation of Code LLMs with Round-Trip Correctness", "Performance Estimation"]);
 
 
