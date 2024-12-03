@@ -1,0 +1,128 @@
+<html lang="en">
+<head>
+    <title>TOID Repository</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--<script src="js/d3.js" type="text/javascript"></script>-->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="js/paperData.js"></script>
+    <script src="js/HeatMap.js"></script>
+    <script src="js/Histogram.js"></script>
+    <script src="js/paperPage.js"></script>
+    <script src="js/titleEdit.js"></script>
+    <script src="js/Home.js"></script>
+    <script src="js/insertData.js"></script>
+    <script src="js/Pagination.js"></script>
+    <style>
+        .tablefont {
+            font-family: "Arial", Arial, sans-serif;
+            color : #2E2E2E;
+        }
+    </style>
+</head>
+<body>
+<div id="headTitle" style="width: 100%; height: 15%;">
+<!--    <div id="headTitle1"></div>-->
+<!--    <div id = "abInfo"></div>-->
+</div>
+
+<div id="pageChange" style="position : absolute; top : 15%; width: 100%; height: 10%;">
+    <div id = "HomePage" class="chosePage" onclick="javascript:location.href='TOID.html' " style="background-color: #E6E6E6">Home</div>
+    <div id = "RepositoryPage" class="chosePage" onclick="javascript:location.href='Repository.html' ">Repository</div>
+    <div id = "AnalysisPage" class="chosePage" onclick="javascript:location.href='Analysis.html' ">Analysis</div>
+</div>
+
+<div id = "Content" style=" word-break:break-all; word-wrap:break-word ;" >
+    <div id = "Survey">
+        <h2 class = "tablefont">Test Optimization in DNN Testing Paper Repository</h2>
+        <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+            Test optimization in DNN testing refers to the activities that focus on alleviating the <br>
+            cost of data labeling during the DNN testing phase. Researchers try to select and label<br>
+            a subset of the test data or directly use the unlabeled test data to satisfy testing <br>
+            requirements. Related methods that need to label a part of test data are called <br>
+            sampling-based testing methods, while others that need no labeling effort are named <br>
+            labeling-free test methods.<br>
+            <a href="https://dl.acm.org/doi/10.1145/3643678">Survey paper</a>
+
+        </p>
+
+
+        <div style="width: 80%">
+            <h2 class = "tablefont">Repository Status</h2>
+            <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+             Each paper could cover more than one topics.
+           </p>
+
+            <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+             <b>In the paper</b>
+            <table class = "tablefont" role="table" style="border:0 solid white">
+                <tr>
+                    <td align="left" style="border-style:none" >All Papers:</td>
+                    <td align="right" style="border-style:none"> 90 </td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Fault Detection:</td>
+                    <td align="right" style="border-style:none"> 47</td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none">Sampling-Based Model Retraining:</td>
+                    <td align="right" style="border-style:none"> 21 </td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none; width: 50%;">Model Selection:</td>
+                    <td align="right" style="border-style:none">3</td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Performance Estimation:</td>
+                    <td align="right" style="border-style:none">33</td>
+                </tr>
+            </table>
+
+            <p id = homeP2 class = "tablefont" style="width: 74%; height: auto; word-wrap:break-word; word-break:break-all">
+                <b>Up to date</b>
+            <table class = "tablefont" role="table" style="border:0 solid white">
+                <tr>
+                    <td align="left" style="border-style:none" >All Papers:</td>
+                    <td align="right" style="border-style:none"> 152 </td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Fault Detection:</td>
+                    <td align="right" style="border-style:none"> 71 </td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none">Sampling-Based Model Retraining:</td>
+                    <td align="right" style="border-style:none"> 28 </td>
+                </tr>
+
+                <tr>
+                    <td style="border-style:none; width: 50%;">Model Selection:</td>
+                    <td align="right" style="border-style:none">4</td>
+                </tr>
+                <tr>
+                    <td style="border-style:none">Performance Estimation:</td>
+                    <td align="right" style="border-style:none">63</td>
+                </tr>
+            </table>
+        </div>
+
+
+        <p style="background-color: blanchedalmond; width: 60%; left: 20%">@article{10.1145/3643678,
+            <br>title={Test Optimization in DNN Testing: A Survey},
+            <br>author={Hu, Qiang and Guo, Yuejun and Xie, Xiaofei and Cordy, Maxime and Ma, Lei and Papadakis, Mike and Le Traon, Yves},
+            <br>journal={ACM Trans. Softw. Eng. Methodol.},
+            <br>year={2024}
+            }</p>
+        <br>
+        <br>
+
+        <pre id = homePre></pre>
+    </div>
+</div>
+
+<script>
+    homeStyle();
+</script>
+</body>
+</html>
